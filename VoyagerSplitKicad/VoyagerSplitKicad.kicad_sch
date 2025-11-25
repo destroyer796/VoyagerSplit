@@ -117,7 +117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Panelization:MouseBite-Slot_2.0x4.5mm_outset_D0.5mm_P0.85mm_7h"
 			(at 88.9 27.94 0)
 			(effects
 				(font
@@ -181,7 +181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Panelization:MouseBite-Slot_2.0x4.5mm_outset_D0.5mm_P0.85mm_7h"
 			(at 88.9 34.29 0)
 			(effects
 				(font
@@ -245,7 +245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Panelization:MouseBite-Slot_2.0x4.5mm_outset_D0.5mm_P0.85mm_7h"
 			(at 88.9 40.64 0)
 			(effects
 				(font
