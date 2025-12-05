@@ -500,10 +500,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/Liamn/Documents/GitHub/VoyagerSplit/Prod/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "VoyagerSplitKicad.step",
+      "step": "../Prod/VoyagerSplitKicad.step",
       "svg": "",
       "vrml": ""
     },
